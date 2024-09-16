@@ -1,4 +1,4 @@
-# Wyoming Satellite
+# Wyoming Satellite 
 
 Remote voice satellite using the [Wyoming protocol](https://github.com/rhasspy/wyoming).
 
